@@ -19,6 +19,8 @@ Useless box:
 
 **c. Upload code & a photo of your electronic circuit here.**
 
+![Circuit](Motor-button.JPG)
+
 ## Putting it All Together
 
 Include here:
