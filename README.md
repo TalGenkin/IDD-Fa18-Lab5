@@ -13,7 +13,7 @@ Made by Tal Genkin
 
 Useless box: 
 
-![Useless-box.JPG](Useless-box)
+![Useless-box](Useless-box.JPG)
 
 ## Electronics
 
