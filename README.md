@@ -1,5 +1,7 @@
 # Useless Box
 
+Made by Tal Genkin
+
 ## 3D Printing
 
 **a. Include a photo of your printed part here.**
@@ -8,6 +10,10 @@
 ## Laser Cutting
 
 **b. Include a photo of your box here.**
+
+Useless box: 
+
+![Useless-box.JPG](Useless-box)
 
 ## Electronics
 
